@@ -11,7 +11,7 @@
 # STeps:
 * Dataset: { https://archive.ics.uci.edu/ml/datasets/online+retail }
 * Tasks:
-* All task requirement is satisfied. Link to the file is uploaded. { }
+* All task requirement is satisfied. Link to the file is uploaded. { https://geuac-my.sharepoint.com/:x:/g/personal/21021382_geu_ac_in/EUdDLjhXzr1KtXYsNOxFlL4Bq5HsrpT4x13i1kAg_4jVDw?e=msZIpP }
 * Clean the data (remove nulls, handle duplicates). (Done)
 * Create a pivot table to show total sales by country and month. (Done)
 * Add formulas to calculate: (Done)
