@@ -12,8 +12,8 @@
 * Tasks:
 * ALL TASK REQUIREMENT IS SATISFIED. link for your reference is attatched. { https://public.tableau.com/views/NYCAirbnbDashboardAbhishekKumar/NYCAirbnbInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link }
 * Create a dashboard showing:
-  ** Listings count by neighborhood  (Done)
-  ** Price distribution per room type (Done)
-  ** Availability trends (Done)
-  ** Include filters for room type and neighborhood. (Done)
-  ** Publish your dashboard to Tableau Public and share the link. (Done)
+* Listings count by neighborhood  (Done)
+* Price distribution per room type (Done)
+* Availability trends (Done)
+* Include filters for room type and neighborhood. (Done)
+* Publish your dashboard to Tableau Public and share the link. (Done)
