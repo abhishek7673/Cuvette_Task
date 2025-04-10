@@ -11,6 +11,7 @@
 * Submit a .sql file with queries and output screenshots.
 
 # Steps:
+** Documnet with sql queries and their output is uploaded for your reference.
 * Dataset: { https://github.com/lerocha/chinook-database }
 * I have opened the sqlite.com website and created my account, then created a database as instructed and perform query analysis.
 * All task sastisfied
