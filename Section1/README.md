@@ -8,7 +8,7 @@ Tasks:
 * Add comments/markdown to explain the steps.
 
 # Steps:
-* Dataset: {https://www.kaggle.com/datasets/spscientist/students-performance-in-exams}
+* Dataset: { https://www.kaggle.com/datasets/spscientist/students-performance-in-exams }
 * Jupyter Notebook page is uploaded for your reference.
 * Task from 1 to 6 is satisfied.
 * Task 1: Load the dataset and perform data cleaning. (Done)
