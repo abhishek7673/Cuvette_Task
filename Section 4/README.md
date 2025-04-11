@@ -19,6 +19,7 @@
 * % contribution of each country to total sales (Done)
 * Highlight top 5 countries by revenue using conditional formatting. (Done)
 * Create a chart to visualize monthly revenue trend. (Done)
-
+# Explanation:
 * In Online Retail Sheet: Average Order Value is Mentioned
-* In 
+* In MOnthly Revenue Trend Sheet: It is shown in a pivot table
+* In Total Sales BY COuntry and Month Sheet: Sales by Country is calculated, and the contribution of each country is also there and Top 5 is highlighted using light red color
