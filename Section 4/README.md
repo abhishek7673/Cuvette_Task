@@ -20,3 +20,5 @@
 * Highlight top 5 countries by revenue using conditional formatting. (Done)
 * Create a chart to visualize monthly revenue trend. (Done)
 
+* In Online Retail Sheet: Average Order Value is Mentioned
+* In 
